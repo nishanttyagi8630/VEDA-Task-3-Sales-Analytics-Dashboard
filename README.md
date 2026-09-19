@@ -58,7 +58,9 @@ The dashboard highlights important observations related to regional sales, categ
 
 ## 🖼️ Dashboard Preview
 
-[![Sales Analytics Dashboard](./Dashboard-preview.png)](./Dashboard-preview.png)
+## 🖼️ Dashboard Preview
+
+[![Sales Analytics Dashboard](./VEDA-Task-3-Sales-Analytics-Dashboard/Dashboard-preview.png)](./VEDA-Task-3-Sales-Analytics-Dashboard/Dashboard-preview.png)
 
 ## 📁 Project Files
 
