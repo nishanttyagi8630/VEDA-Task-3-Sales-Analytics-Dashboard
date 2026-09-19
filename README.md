@@ -58,6 +58,8 @@ The dashboard highlights important observations related to regional sales, categ
 
 ## 🖼️ Dashboard Preview
 
+[🔗 View Dashboard Image in Repository](./VEDA-Task-3-Sales-Analytics-Dashboard/Dashboard-preview.png)
+
 [![Sales Analytics Dashboard](./VEDA-Task-3-Sales-Analytics-Dashboard/Dashboard-preview.png)](./VEDA-Task-3-Sales-Analytics-Dashboard/Dashboard-preview.png)
 
 
